@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi ~ I’m TTJ. 👋 <img src="https://hits.b3log.org/tomatoKnightJ/hits.svg">
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=tomatoKnightJ&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+I am a R&D engineer.I mainly develop in the technical fields of Web front-end.
+
+I love open source. In my spare time
+
+Welcome to experience my open source products. If you have any problems or needs, you can raise them in the issue.
+
 
 <!--
 **tomatoKnightJ/tomatoKnightJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
