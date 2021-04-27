@@ -4,9 +4,9 @@
 
 I am a R&D engineer.I mainly develop in the technical fields of Web front-end.
 
-I love open source. In my spare time
+I love open source. In my spare time, I always write some blog.
 
-Welcome to experience my open source products. If you have any problems or needs, you can raise them in the issue.
+Welcome to my blog. If you have any problems or needs, you can raise them in the issue.
 
 
 <!--
